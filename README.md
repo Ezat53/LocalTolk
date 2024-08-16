@@ -1,6 +1,6 @@
 # Metin Okuma ve Ses Üretim Uygulaması
 
-Bu Python uygulaması, Word belgelerinden metin okuyarak, bu metni ses dosyalarına dönüştürür ve ardından bu ses dosyalarını birleştirir. Bu süreçte Cogui `TTS` (Text-to-Speech) kütüphanesi ve `pydub` kütüphanesi kullanılır. Projenin temel amacı ücretli seslendirme uygulamalarına ek bir açık kaynak alternatifi sunmaktır.
+Bu Python uygulaması, Word belgelerinden metin okuyarak, bu metni ses dosyalarına dönüştürür ve ardından bu ses dosyalarını birleştirir. Bu süreçte Coqui `TTS` (Text-to-Speech) kütüphanesi ve `pydub` kütüphanesi kullanılır. Projenin temel amacı ücretli seslendirme uygulamalarına ek bir açık kaynak alternatifi sunmaktır.
 
 ## Gereksinimler
 
