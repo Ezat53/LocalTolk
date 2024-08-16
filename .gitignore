@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+/nltkk.py
+/tts.py
+/tts_v2.py
+/tts_v3.py
+/tts_v5_thread-broken.py
+/wav.py
+/__pycache__
